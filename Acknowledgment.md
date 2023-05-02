@@ -6,5 +6,5 @@ I'm immensely thankful to my mentor, **Mr. Taraprasanna Roy** for his constant s
 
 Taraprasanna Roy is a Physics Teacher at Govt. Sponsored Public school Palita High School. He is interested in Physics experiments , have a small
 lab and a Physics Library in his home. He is private tutor of the author from Grade VIII. A special thanks to Mr. Roy, for supervising this project, and
-providing the resources in form of books and research papers required to complete this project
+providing the resources in form of books and research papers required to complete this project.
 
