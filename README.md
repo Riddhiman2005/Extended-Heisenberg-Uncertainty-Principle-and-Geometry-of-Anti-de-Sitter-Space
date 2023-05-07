@@ -1,6 +1,6 @@
 # Extended-Heisenberg-Uncertainty-Principle-and-Geometry-of-Anti-de-Sitter-Space #
 
-This paper was written and completed by Riddhiman Bhattacharya on 2019 July under the mentorship of Mr. T.P Roy sir. Back at that time, they had no knowledge of using LATEX for documentation. And so they used MS WORD for typing the paper. So, in this repository I'm adding that paper and trying to do some discussions of it.
+This research paper was written and completed by Riddhiman Bhattacharya on 2019 July under the mentorship of Mr. T.P Roy sir. Back at that time, they had no knowledge of using LATEX for documentation. And so they used MS WORD for typing the paper. So, in this repository I'm adding that paper and trying to do some discussions of it.
 
 ## Heisenberg Uncertainty Principle (HUP) ##
 
